@@ -1,0 +1,12 @@
+D:\Projekti\signalR-example\SignalR-demo\SignalR-demo-dal\bin\Debug\netcoreapp3.1\SignalR-demo-dal.deps.json
+D:\Projekti\signalR-example\SignalR-demo\SignalR-demo-dal\bin\Debug\netcoreapp3.1\SignalR-demo-dal.runtimeconfig.json
+D:\Projekti\signalR-example\SignalR-demo\SignalR-demo-dal\bin\Debug\netcoreapp3.1\SignalR-demo-dal.runtimeconfig.dev.json
+D:\Projekti\signalR-example\SignalR-demo\SignalR-demo-dal\bin\Debug\netcoreapp3.1\SignalR-demo-dal.dll
+D:\Projekti\signalR-example\SignalR-demo\SignalR-demo-dal\bin\Debug\netcoreapp3.1\SignalR-demo-dal.pdb
+D:\Projekti\signalR-example\SignalR-demo\SignalR-demo-dal\obj\Debug\netcoreapp3.1\SignalR-demo-dal.csprojAssemblyReference.cache
+D:\Projekti\signalR-example\SignalR-demo\SignalR-demo-dal\obj\Debug\netcoreapp3.1\SignalR-demo-dal.AssemblyInfoInputs.cache
+D:\Projekti\signalR-example\SignalR-demo\SignalR-demo-dal\obj\Debug\netcoreapp3.1\SignalR-demo-dal.AssemblyInfo.cs
+D:\Projekti\signalR-example\SignalR-demo\SignalR-demo-dal\obj\Debug\netcoreapp3.1\SignalR-demo-dal.csproj.CoreCompileInputs.cache
+D:\Projekti\signalR-example\SignalR-demo\SignalR-demo-dal\obj\Debug\netcoreapp3.1\SignalR-demo-dal.dll
+D:\Projekti\signalR-example\SignalR-demo\SignalR-demo-dal\obj\Debug\netcoreapp3.1\SignalR-demo-dal.pdb
+D:\Projekti\signalR-example\SignalR-demo\SignalR-demo-dal\obj\Debug\netcoreapp3.1\SignalR-demo-dal.genruntimeconfig.cache
